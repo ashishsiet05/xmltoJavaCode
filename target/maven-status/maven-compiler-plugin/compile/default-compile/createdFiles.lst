@@ -1,0 +1,6 @@
+com\factory\pojo\Question.class
+com\factory\jaxb\ObjectFactory.class
+com\factory\pojo\CamelRoute.class
+com\factory\pojo\Answer.class
+com\factory\jaxb\Question$Answers.class
+com\factory\jaxb\Question.class
